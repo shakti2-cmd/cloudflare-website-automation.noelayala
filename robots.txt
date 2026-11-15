@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://automation.noeljedayala.workers.dev/sitemap.xml
